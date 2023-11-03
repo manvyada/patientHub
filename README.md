@@ -7,15 +7,8 @@ Patient Hub Service is a robust and scalable solution designed to streamline pat
 
 ## Features
 
-- **Patient Management:** Easily add, update, and view patient records, including personal information, medical history, and contact details.
-
-- **Appointment Scheduling:** Schedule and manage patient appointments, send reminders, and track appointment history.
-
-- **Medical Records:** Securely store and access patient medical records, test results, prescriptions, and treatment plans.
-
-- **Billing and Payments:** Generate invoices, track payments, and manage billing information, ensuring smooth financial transactions.
-
-- **User Authentication:** Secure user authentication and authorization mechanisms to protect sensitive patient data.
+- **Patient Management:** Perform CRUD operation on patient and certain patient
+resources such as easily add, update, and view patient records, including personal information.
 
 ## Installation
 
